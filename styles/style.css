@@ -280,6 +280,8 @@
   }
 }
 
+/* FILTER
+ */
 .filter-grayscale {
   filter: grayscale(100%);
 }
