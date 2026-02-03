@@ -1,1 +1,1 @@
-https://aimpdoom.github.io/zakrivayuschiy-teg-f/
+https://github.com/aimpdoom/zakrivayuschiy-teg-f
